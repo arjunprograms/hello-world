@@ -1,3 +1,5 @@
+<<<<<<< main
+=======
 # hello-world
 test2
 GitHub Docs tutorial
@@ -10,4 +12,4 @@ My dream career is to work for big tech companies such as
 4.  meta*
 I am a third year undergraduate at CSUF, majoring in Computer Science and not ~~Nursing~~ as that was my initial major right out of high school.
 Thanks
-
+>>>>>>> test2
