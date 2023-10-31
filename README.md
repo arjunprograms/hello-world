@@ -7,3 +7,4 @@ My dream career is to work for big tech companies such as
 3. microsoft
 4.  meta*
 I am a third year undergraduate at CSUF, majoring in Computer Science and not ~~Nursing~~ as that was my initial major right out of high school.
+Thanks
